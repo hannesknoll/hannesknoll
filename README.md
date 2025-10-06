@@ -11,6 +11,7 @@
 ├── 🎓 Uni
 │   ├── <a href="https://www.tha.de/Kommunikation/Pyramid-2025.html">Pyramid 2025</a>
 │   ├── <a href="https://www.instagram.com/pyramid.tha/p/DIUT0CZsZu-/">Pyramid Teamlead</a>
+│   ├── <a href="https://tha.de/~knolljo/rust">Rust Tutor</a>
 │   └── <a href="https://tha.de/~knolljo">THA</a>
 ├── 🐙 VCS
 │   ├── <a href="https://codeberg.org/hannesknoll">Codeberg</a>
